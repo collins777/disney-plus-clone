@@ -13,7 +13,7 @@ function Movies() {
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUrLipBiDgnwU5IQYixu3P4tkgw9YrrNU4fkTlRPXSAwUlvp0C" />
         </Wrap>
         <Wrap>
-          <img src="https://lh3.googleusercontent.com/vnSOTE6IQvxYI1ebVKz6M8M6fLRLyYpXF8iP_zkEp33l7pBhR4GJV-8bw2MjffH82JLk93POJaY_UxFpVpHkNZjCb2QHL8AjkVJNLQ_z" />
+          <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcStxVnUF8iZL8S5gM93GwODmH_5W1TVXEoNY2tGgo3HITofDMxb" />
         </Wrap>
         <Wrap>
           <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcScF32XEOy7Opmx5JlpkYMxV8_afCqlJRRqLdHTvvXFoC0KUyK3" />
